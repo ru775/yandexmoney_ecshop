@@ -129,6 +129,7 @@ class yad
             "<option value=\"GP\">По коду через терминал</option>".
             "<option value=\"WM\">Оплата WebMoney</option>".
             "<option value=\"MC\">Платеж со счета мобильного телефона</option>".
+            "<option value=\"SB\">Выставление счета в Сбербанк Онлайн</option>".
             "<option value=\"AB\">Выставление счета в АльфаКлик</option>".
         "</select>";
         $def_url .= "<input type=\"hidden\" name=\"CustomerNumber\" value=\"".$order['log_id']."\">";
