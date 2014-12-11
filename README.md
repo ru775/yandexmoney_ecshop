@@ -1,7 +1,5 @@
-yandexmoney_ecshop
+[ECShop](http://chinascript.ru/forum-ecshop-1.html)
 ==================
-
-##[ECShop](http://chinascript.ru/forum-ecshop-1.html)
 
 ##[Яндекс.Касса](http://kassa.yandex.ru/) и на вашем сайте будут самые популярные способы оплаты.
 > Доступные платежные методы, если вы работаете как юридические лицо:
